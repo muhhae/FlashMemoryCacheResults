@@ -7,11 +7,7 @@
       "iteration": 0,
       "metrics": [
         {
-<<<<<<< HEAD
-          "admission_treshold": 16,
-=======
           "admission_treshold": 0,
->>>>>>> 160be2d8 (New results)
           "algorithm": "lru",
           "hit": 58513424,
           "inserted": 41486576,
@@ -39,11 +35,7 @@
       "iteration": 1,
       "metrics": [
         {
-<<<<<<< HEAD
-          "admission_treshold": 16,
-=======
           "admission_treshold": 0,
->>>>>>> 160be2d8 (New results)
           "algorithm": "lru",
           "hit": 58513424,
           "inserted": 41486576,
