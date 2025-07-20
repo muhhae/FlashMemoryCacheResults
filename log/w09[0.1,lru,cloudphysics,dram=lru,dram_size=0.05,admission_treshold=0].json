@@ -1904,15 +1904,15 @@
           "layer": 1,
           "metrics_time": [
             {
-              "byte_inserted": 0,
-              "byte_miss": 32768,
-              "byte_read": 0,
-              "byte_reinserted": 0,
-              "hit": 0,
-              "inserted": 0,
-              "miss_ratio": 1.0,
-              "reinserted": 0,
-              "req": 1
+              "byte_inserted": 17826645238058645349,
+              "byte_miss": 17824956362428217183,
+              "byte_read": 17824956362428184415,
+              "byte_reinserted": 17826645238058645349,
+              "hit": 18398893327668740096,
+              "inserted": 17816793463694295040,
+              "miss_ratio": 3.059601028021497e-05,
+              "reinserted": 17813134233162481664,
+              "req": 18399456277622161409
             },
             {
               "byte_inserted": 5805761024,

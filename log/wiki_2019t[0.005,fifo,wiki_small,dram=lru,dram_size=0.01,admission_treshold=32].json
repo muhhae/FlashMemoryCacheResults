@@ -5567,15 +5567,15 @@
           "layer": 1,
           "metrics_time": [
             {
-              "byte_inserted": 18658597,
-              "byte_miss": 14732828354,
-              "byte_read": 445915049,
-              "byte_reinserted": 0,
-              "hit": 8839,
-              "inserted": 348,
-              "miss_ratio": 0.9802062899166062,
-              "reinserted": 0,
-              "req": 446556
+              "byte_inserted": 1946666,
+              "byte_miss": 14732828338,
+              "byte_read": 445915033,
+              "byte_reinserted": 18446744073692905222,
+              "hit": 17817356422237659783,
+              "inserted": 17825800800387989852,
+              "miss_ratio": 3.159507750394308e-05,
+              "reinserted": 17824674883301277696,
+              "req": 17817919380781453404
             },
             {
               "byte_inserted": 40201013,

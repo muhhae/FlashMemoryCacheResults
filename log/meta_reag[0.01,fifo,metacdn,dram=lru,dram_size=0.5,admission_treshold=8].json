@@ -2148,13 +2148,13 @@
             {
               "byte_inserted": 5621444986,
               "byte_miss": 981671805917,
-              "byte_read": 18374966868005288712,
+              "byte_read": 130049,
               "byte_reinserted": 0,
-              "hit": 18446744073709551601,
-              "inserted": 18446744073692905300,
-              "miss_ratio": -218340838407658.87,
-              "reinserted": 18446744073692839685,
-              "req": 84486
+              "hit": 1,
+              "inserted": 78,
+              "miss_ratio": 0.9999881659605689,
+              "reinserted": 0,
+              "req": 84502
             },
             {
               "byte_inserted": 97142810116,

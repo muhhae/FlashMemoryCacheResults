@@ -1652,14 +1652,14 @@
           "metrics_time": [
             {
               "byte_inserted": 0,
-              "byte_miss": 17823267486942888448,
-              "byte_read": 17825237841844633600,
+              "byte_miss": 512,
+              "byte_read": 0,
               "byte_reinserted": 0,
-              "hit": 17846348787080689579,
-              "inserted": 17849163579798124469,
-              "miss_ratio": 0.0,
-              "reinserted": 17849163579798124469,
-              "req": 17846348787080689580
+              "hit": 0,
+              "inserted": 0,
+              "miss_ratio": 1.0,
+              "reinserted": 0,
+              "req": 1
             },
             {
               "byte_inserted": 74828981248,
